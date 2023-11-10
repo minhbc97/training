@@ -1,6 +1,6 @@
 <template>
   <div>
-    
+    Hello
     <span>Message: {{ msg }}</span>
 
     <p>Using text interpolation: {{ rawHtml }}</p>
